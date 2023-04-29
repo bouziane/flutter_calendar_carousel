@@ -15,7 +15,7 @@ To install and use this package, follow these steps:
 Import the package in your Dart file:
 
 ```dart
-import 'flutter_calendar_carousel/classes/event.dart';
+import 'flutter_calendar_carousel/flutter_calendar_carousel.dart';
 ```
 
 
